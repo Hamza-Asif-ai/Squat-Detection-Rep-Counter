@@ -4,6 +4,10 @@ A computer vision system that detects squats and counts repetitions from video, 
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue) ![OpenCV](https://img.shields.io/badge/OpenCV-CV-green) ![MediaPipe](https://img.shields.io/badge/MediaPipe-Pose-orange)
 
+## 🎥 Demo
+
+Check out the project demo on LinkedIn: [LinkedIn Post](https://www.linkedin.com/posts/your-post-link-here)
+
 ## 📌 Overview
 
 This project takes a workout video as input and produces an annotated output video with a live on-screen dashboard showing:
@@ -21,8 +25,6 @@ This project takes a workout video as input and produces an annotated output vid
 6. **Video Rendering** — The skeleton, joint angles, current state, and rep count are overlaid onto the original video frame by frame.
 
 ## 📊 Results
-
-**Joint Angle Tracking:**
 
 | Metric | Value |
 |---|---|
