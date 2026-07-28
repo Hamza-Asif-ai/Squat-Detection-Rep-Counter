@@ -24,12 +24,6 @@ This project takes a workout video as input and produces an annotated output vid
 
 **Joint Angle Tracking:**
 
-![Joint Angle Tracking](assets/joint_angles_tracking.png)
-
-**Confusion Matrix:**
-
-![Confusion Matrix](assets/confusion_matrix.png)
-
 | Metric | Value |
 |---|---|
 | Total Reps Detected | 17 |
