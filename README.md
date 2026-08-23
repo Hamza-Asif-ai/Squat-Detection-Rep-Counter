@@ -12,7 +12,7 @@ A computer vision system that detects squats and counts repetitions from video, 
 
 ## 🎥 Demo
 
-Check out the project demo on LinkedIn: [[LinkedIn Post]([https://www.linkedin.com/posts/hamza-asif-b84523325_computervision-machinelearning-python-activity-7487692116987596800-JfVE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFIgCNQBYNOMlVuv_ZciAeFswE8CI2V8LlY](https://lnkd.in/p/dMX53CmF))]]
+Check out the project demo on LinkedIn: [[LinkedIn Post](https://www.linkedin.com/posts/hamzaasif-ai_computervision-machinelearning-python-activity-7487692116987596800-nCFN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFIgCNQBYNOMlVuv_ZciAeFswE8CI2V8LlY)]
 
 ---
 
