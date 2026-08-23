@@ -1,5 +1,3 @@
----
-
 # Squat Detection & Rep Counter using Pose Estimation
 
 ---
