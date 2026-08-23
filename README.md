@@ -1,7 +1,5 @@
 # Squat Detection & Rep Counter using Pose Estimation
 
----
-
 A computer vision system that detects squats and counts repetitions from video, built using **MediaPipe Pose Landmarker**, joint-angle geometry, and a hysteresis-based state machine. Works across multiple camera angles (front-facing and side profile).
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue) ![OpenCV](https://img.shields.io/badge/OpenCV-CV-green) ![MediaPipe](https://img.shields.io/badge/MediaPipe-Pose-orange)
