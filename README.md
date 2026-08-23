@@ -58,6 +58,13 @@ This project takes a workout video as input and produces an annotated output vid
 - Support additional exercises (push-ups, lunges) using the same pipeline
 - Real-time webcam inference instead of offline video processing
 
-## ✍️ Author
+---
 
-Hamza Asif — BS Artificial Intelligence, Dawood University of Engineering and Technology (DUET)
+## 👨‍💻 Author
+
+**Hamza Asif**  
+BS Artificial Intelligence — DUET, Karachi  
+[![GitHub](https://img.shields.io/badge/GitHub-Hamza--Asif--ai-black?style=flat-square&logo=github)](https://github.com/Hamza-Asif-ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza%20Asif-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/hamzaasif-ai)
+
+---
